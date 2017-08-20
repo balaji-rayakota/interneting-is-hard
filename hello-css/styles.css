@@ -1,0 +1,45 @@
+body{
+  color: #414141; /*dark gray*/
+  background-color : #EEEEEE; /*light gray*/
+  font-size: 18px;
+}
+
+h1{
+  font-size: 2em;
+}
+
+h2{
+  font-size: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Helvetica", "Ariel", sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
+ul{
+  list-style-type: square;
+}
+
+ol{
+  list-style-type: lower-greek;
+}
+
+a{
+  text-decoration: none;
+}
+
+ins{
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  color: red;
+}
+
+del{
+  text-decoration: line-through;
+}
+
+p{
+  text-align: left;
+}
